@@ -1,9 +1,15 @@
 {
-  "vercode": 2,
+  "vercode": 40,
   "version_name": "v1.2",
   "app_url": "https://baidu.com",
-  "log": "",
-  "log_en": "",
+  "log": "
+1. 无版本更新提示： 当前已是最新版本
+2. 在入口处检查版本更新要加个loading的
+3. 弹窗布局间距检查下，和设计图"
+  "log_en": "
+1. No version update prompt: The current version is already the latest version
+2. When checking the version update at the entrance, add a loading
+3. Check the pop-up window layout spacing and design drawing"
   "md5": 1111111,
   "state": 0
 }
