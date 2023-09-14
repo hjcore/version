@@ -1,5 +1,5 @@
 {
-	"vercode": 39,
+	"vercode": 34,
 	"version_name": "v1.2",
 	"app_url": "https://baidu.com",
 	"log": "1. 无版本更新提示： 当前已是最新版本\n2. 在入口处检查版本更新要加个loading\n3. 弹窗布局间距检查下， 和设计图 ",
