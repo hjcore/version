@@ -1,9 +1,9 @@
 {
-	"vercode": 41,
-	"version_name": "V0.9.5",
+	"vercode": 42,
+	"version_name": "V0.9.6",
 	"app_url": "https://hjcore.github.io/files/download.html",
-	"log": "1. 产品优化 ",
-	"log_en": "1. Product optimization ",
+	"log": "1. 修复设备加解密问题 ",
+	"log_en": "1. Fix device encryption and decryption issues",
 	"md5": 1111111,
 	"state": 0
 }
