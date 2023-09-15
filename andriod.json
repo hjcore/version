@@ -1,6 +1,6 @@
 {
-	"vercode": 43,
-	"version_name": "V0.9.6.1",
+	"vercode": 42,
+	"version_name": "V0.9.6.2",
 	"app_url": "https://public.99cjzb.com/public/nsio.apk",
 	"log": "1. test update version ",
 	"log_en": "1. Fix the problem that high-version mobile phone version update cannot jump\n2. Fix the device encryption and decryption problem",
