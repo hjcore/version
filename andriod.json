@@ -1,8 +1,8 @@
 {
-	"vercode": 42,
-	"version_name": "V0.9.6",
+	"vercode": 43,
+	"version_name": "V0.9.6.1",
 	"app_url": "https://public.99cjzb.com/public/nsio.apk",
-	"log": "1. 修复高版本手机版本更新无法跳转的问题\n2. 修复设备加解密问题 ",
+	"log": "1. test update version ",
 	"log_en": "1. Fix the problem that high-version mobile phone version update cannot jump\n2. Fix the device encryption and decryption problem",
 	"md5": 1111111,
 	"state": 0
